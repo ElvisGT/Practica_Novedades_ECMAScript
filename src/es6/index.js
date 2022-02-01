@@ -192,4 +192,4 @@ function* helloWorld()
 const generator = helloWorld();
 console.log(generator.next().value);
 console.log(generator.next().value);
-console.log(generator.next().value); 
+console.log(generator.next().value);
